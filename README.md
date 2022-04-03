@@ -8,3 +8,5 @@
 [![Code Quality - Cppcheck](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/c-cpp.yml)
 
 [![Analysis](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/Analysis.yml/badge.svg)](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/Analysis.yml)
+
+[![Bulid CI - windows](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/Windows.yml/badge.svg)](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/Windows.yml)
