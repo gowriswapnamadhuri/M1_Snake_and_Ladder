@@ -10,3 +10,5 @@
 [![Analysis](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/Analysis.yml/badge.svg)](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/Analysis.yml)
 
 [![Bulid CI - windows](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/Windows.yml/badge.svg)](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/Windows.yml)
+
+[![Build_CI - Linux](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/Linux.yml/badge.svg)](https://github.com/gowriswapnamadhuri/M1_snake-and-ladder/actions/workflows/Linux.yml)
